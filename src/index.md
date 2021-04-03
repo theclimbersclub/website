@@ -4,4 +4,4 @@
 layout: home
 ---
 
-Welcome to Bridgetown!
+Welcome to The Climbers' Club Membership Services
