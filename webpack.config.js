@@ -3,9 +3,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const ManifestPlugin = require("webpack-manifest-plugin");
 
 module.exports = {
-  entry: {
-    main: "./frontend/javascript/index.js"
-  },
+  entry: "./frontend/javascript/index.js",
   devtool: "source-map",
   // Set some or all of these to true if you want more verbose logging:
   stats: {
@@ -21,13 +19,13 @@ module.exports = {
   resolve: {
     extensions: [".js", ".jsx"],
     modules: [
-      path.resolve(__dirname, 'frontend', 'javascript'),
-      path.resolve(__dirname, 'frontend', 'styles'),
-      path.resolve('./node_modules')
+      path.resolve(__dirname, "frontend", "javascript"),
+      path.resolve(__dirname, "frontend", "styles"),
+      path.resolve("./node_modules"),
     ],
     alias: {
-      bridgetownComponents: path.resolve(__dirname, "src", "_components")
-    }
+      bridgetownComponents: path.resolve(__dirname, "src", "_components"),
+    },
   },
   plugins: [
     new MiniCssExtractPlugin({
@@ -46,8 +44,8 @@ module.exports = {
           options: {
             presets: ["@babel/preset-env"],
             plugins: [
-              ["@babel/plugin-proposal-decorators", { "legacy": true }],
-              ["@babel/plugin-proposal-class-properties", { "loose" : true }],
+              ["@babel/plugin-proposal-decorators", { legacy: true }],
+              ["@babel/plugin-proposal-class-properties", { loose: true }],
               [
                 "@babel/plugin-transform-runtime",
                 {
@@ -58,7 +56,7 @@ module.exports = {
           },
         },
       },
-      
+
       {
         test: /\.(s[ac]|c)ss$/,
         use: [
@@ -66,22 +64,14 @@ module.exports = {
           {
             loader: "css-loader",
             options: {
-              url: url => !url.startsWith('/')
-            }
-          },
-          {
-            loader: "sass-loader",
-            options: {
-              sassOptions: {
-                includePaths: [
-                  path.resolve(__dirname, "src/_components")
-                ],
-              },
+              url: (url) => !url.startsWith("/"),
+              importLoaders: 1,
             },
           },
+          "postcss-loader",
         ],
       },
-      
+
       {
         test: /\.woff2?$|\.ttf$|\.eot$/,
         loader: "file-loader",
