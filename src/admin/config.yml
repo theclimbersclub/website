@@ -12,7 +12,7 @@ local_backend: true # Enable the CMS locally
 
 # location of where we want images uploaded via the CMS put
 media_folder: "src/images/uploads"
-public_folder: "images/uploads/"
+public_folder: "/images/uploads"
 
 publish_mode: editorial_workflow
 
@@ -22,9 +22,11 @@ slug:
   sanitize_replacement: "_"
 
 collections:
-  - name: blog # collection name
-    label: Blog # label in the CMS
+  - name: posts # collection name
+    label: Posts # label in the CMS
+    label_singular: "Post"
     folder: src/_posts/ # location of the files that make up the collection
+    path: "{{slug}}/index"
     media_folder: ""
     public_folder: ""
     extension: .md # extension of those files
