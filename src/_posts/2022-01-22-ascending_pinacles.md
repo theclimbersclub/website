@@ -11,10 +11,6 @@ How to get down, today we'll discuss approaches to making a safe descent from yo
 
 Image above?
 
-
-
 **Tandem abseil**
-
-
 
 **Down Climb**
