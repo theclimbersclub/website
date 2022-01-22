@@ -1,9 +1,18 @@
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-{% capture page_title %}{{ title | strip_html | strip_newlines }}{% endcapture %}
-<title>{% if page_title != "" %}{{ page_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}</title>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<meta name="description" content="{{ metadata.description }}" />
+  {% seo %}
 
-<link rel="stylesheet" href="{% webpack_path css %}" />
-<script src="{% webpack_path js %}" defer></script>
+  <link rel="stylesheet" href="{% webpack_path css %}" />
+  <script src="{% webpack_path js %}" defer></script>
+
+  <!-- Thank you: https://realfavicongenerator.net/ for these! -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="theme-color" content="#ffffff">
+</head>

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  {% render "head" site: site %}
+  <body class="min-h-screen flex flex-col antialiased">
+    {% render "navbar" site: site %}
+
+    <main class="text-gray-700">{{content}}</main>
+
+    {% render "footer" site: site %}
+  </body>
+</html>
