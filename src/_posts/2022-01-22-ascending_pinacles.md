@@ -8,3 +8,5 @@ Getting to the top of a pinnacle is the easy bit.
 How to get down, today we'll discuss approaches to making a safe descent from your perch.
 
 ![alt text](/src/images/uploads/sylvain-mauroux-uiqebdwseme-unsplash.jpg "Up and down")
+
+Image above?
