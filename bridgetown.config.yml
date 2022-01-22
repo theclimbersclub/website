@@ -26,6 +26,7 @@ timezone: Other/UTC
 
 pagination:
   enabled: true
+  per_page: 4
 
 svg:
   optimize: true

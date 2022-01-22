@@ -26,7 +26,7 @@ collections:
     extension: .md # extension of those files
     format: frontmatter # format to use
     create: true # allow creation of new items in this collection
-    slug: '{{year}}-{{month}}-{{day}}-{{title}}' # the slug to use when creating new items
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}" # the slug to use when creating new items
     editor:
       preview: false # According to the documentation, this won't work with our setup, but I didn't try
     fields: # Fields for the collection
@@ -41,7 +41,7 @@ collections:
     files:
       - label: Index Page
         name: index
-        file: src/index.md
+        file: src/index.html
         fields:
           - { label: Layout, name: title, widget: hidden, default: home }
           - { label: Body, name: body, widget: markdown }
@@ -51,5 +51,10 @@ collections:
         fields:
           - { label: Title, name: title, widget: hidden, default: About }
           - { label: Layout, name: layout, widget: hidden, default: page }
-          - { label: Permalink, name: permalink, widget: string, default: '/about/' }
+          - {
+              label: Permalink,
+              name: permalink,
+              widget: string,
+              default: "/about/",
+            }
           - { label: Body, name: body, widget: markdown }
