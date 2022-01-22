@@ -7,10 +7,14 @@ Getting to the top of a pinnacle is the easy bit.
 
 How to get down, today we'll discuss approaches to making a safe descent from your perch.
 
-![alt text](patrick-hendry-w5hncbjfx3w-unsplash.jpg "Up and down")
+![alt text](sylvain-mauroux-uiqebdwseme-unsplash.jpg "Up and down")
 
 Image above?
 
 **Tandem abseil**
 
 **Down Climb**
+
+**Abandon Gear**
+
+![](patrick-hendry-w5hncbjfx3w-unsplash.jpg)
