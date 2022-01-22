@@ -25,14 +25,14 @@ collections:
   - name: posts # collection name
     label: Posts # label in the CMS
     label_singular: "Post"
-    folder: src/_posts/ # location of the files that make up the collection
-    path: "{{slug}}/index"
-    media_folder: ""
-    public_folder: ""
     extension: .md # extension of those files
     format: frontmatter # format to use
     create: true # allow creation of new items in this collection
+    folder: src/_posts/ # location of the files that make up the collection
     slug: "{{year}}-{{month}}-{{day}}-{{title}}" # the slug to use when creating new items
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
     editor:
       preview: false # According to the documentation, this won't work with our setup, but I didn't try
     fields: # Fields for the collection
