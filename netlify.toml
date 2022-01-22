@@ -1,0 +1,13 @@
+[[plugins]]
+  package = "netlify-plugin-cache"
+  [plugins.inputs]
+  paths = [".bridgetown-cache", ".bridgetown-webpack", "output"]
+
+[build]
+  command = "yarn deploy && ./bin/netlify.sh"
+  publish = "output"
+
+[build.processing.html]
+  pretty_urls = true
+[build.processing.images]
+  compress = true
