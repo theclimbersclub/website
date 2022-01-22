@@ -2,6 +2,8 @@
 
 Welcome to the Member Services Website for the climbers club.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/55aceabd-cf43-4b77-becc-cb82d5027177/deploy-status)](https://app.netlify.com/sites/theclimbers-club/deploys)
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
