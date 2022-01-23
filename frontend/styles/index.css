@@ -17,7 +17,7 @@
       @apply p-2;
     }
     a {
-      @apply text-blue-500 hover:text-gray-900;
+      @apply text-sky-500 hover:text-gray-900;
     }
   }
 }
