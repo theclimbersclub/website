@@ -36,8 +36,7 @@ Members enjoy many advantages including:
 * The opportunity to join meets from our extensive list of meets in the UK and abroad.
 * Receiving a monthly e-letter and a superb Journal.
 * The opportunity to join in at annual social weekends which include a buffet or seated meal.
-*
-Every year the meets programme includes a number of family focused meets where children (our future members?) are encouraged. Most huts have rooms which can be booked for family use and children accompanied by members can make full use of all huts during the day.
+* Every year the meets programme includes a number of family focused meets where children (our future members?) are encouraged. Most huts have rooms which can be booked for family use and children accompanied by members can make full use of all huts during the day.
 
 ## Is it difficult to join the Climbers’ Club?
 
