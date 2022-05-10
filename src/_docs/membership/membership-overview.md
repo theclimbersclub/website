@@ -2,6 +2,7 @@
 layout: doc
 title: Membership Application Overview
 description: Membership today of this historic club should be entered into with pride. We are open to any enthusiastic and competent rock-climber or mountaineer who is experienced at leading adventurous climbs; we are not a club for novices or the inexperienced.
+order: 40
 ---
 
 The idea of an adventurous climb is linked to a combination of factors in addition to the grade; for example the length of a climb, the availability of protection or its location (e.g. high mountain, remote, inescapable, difficult access or descent).
@@ -24,7 +25,7 @@ There is no age limit for membership nor is there any limit on the total number 
 
 Each application is considered on its own overall merits and it is really important that you give us a clear picture of your climbing experience; we will take into account your leading grade, preferred climbing style, breadth and depth of experience and the geographical range of your climbing. There is no secret membership criteria, all the criteria are published; see the FAQs and if you feel that you still need more information or would like to discuss specific aspects of your application don’t hesitate to contact our Membership Secretary.
 
-There are sure to be questions.  Please review the frequently asked questions. If your question is not answered, ask your proposer/seconder and do not hesitate to contact the hon. membership secretary if still stuck.
+There are sure to be questions.  Please review the frequently asked questions. If your question is not answered, ask your proposer/seconder and do not hesitate to contact the Hon. Membership Secretary if still stuck.
 
 * [Joining The Club](/docs/membership/joining-the-club)
 * [Cost of Membership](/docs/membership/cost-of-membership)

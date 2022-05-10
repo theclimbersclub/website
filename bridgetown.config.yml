@@ -45,3 +45,5 @@ lang: en_GB
 collections:
   docs:
     output: true
+    sort_by: order
+    sort_direction: ascending

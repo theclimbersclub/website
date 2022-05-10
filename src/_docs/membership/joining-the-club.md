@@ -1,7 +1,8 @@
 ---
 layout: doc
 title: Joining the club
-description: An overview of how to join The Climbers' Club
+description: Frequently asked questions for joining The Climbers' Club
+order: 30
 ---
 
 Included in this article

@@ -2,6 +2,7 @@
 layout: doc
 title: Cost of membership
 description: An overview of costs for being a member of the club.
+order: 20
 ---
 
 ## Cost of Membership

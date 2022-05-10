@@ -2,6 +2,8 @@
 layout: doc
 title: About The Climbers' Club
 description: The Climbers' Club is a club for experienced and competent climbers and mountaineers. We strongly support the traditional British approach to climbing which is often now simply called "Trad".
+order: 10
+
 ---
 
 The Club was formed in 1898 to bring together active climbers, this is still our purpose.
