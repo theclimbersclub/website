@@ -5,6 +5,8 @@ permalink: /docs/
 
 paginate:
   collection: docs
+  sort_field: order
+  sort_reverse: false
 ---
 
 <div class="px-4 pt-16 pb-20 bg-white sm:px-6 lg:pt-24 lg:pb-28 lg:px-8">
@@ -25,7 +27,8 @@ paginate:
     </div>
 
     <div class="grid gap-16 pt-10 mt-6 lg:grid-cols-2 lg:gap-x-5 lg:gap-y-12">
-      {% for doc in site.docs %} {% render "docs/_doc" doc: doc %} {% endfor %}
+      {% for doc in paginator.resources %} {% render "docs/_doc" doc: doc %} {%
+      endfor %}
     </div>
     <nav
       class="flex items-center justify-between px-4 py-3 bg-white border-t border-gray-200 sm:px-6"

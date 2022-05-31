@@ -19,7 +19,7 @@ Don’t worry if you don’t know any members, all you need to do is come along 
 
 We have special Aspirant Meets which are specifically aimed at ensuring that you can meet a range of members and we recommend that you come to one if possible.
 
-There is no age limit for membership nor is there any limit on the total number of members; provided that you, your proposer and seconder follow our guidance notes and advice, your application will be successful.
+There is no age limit for membership nor is there any limit on the total number of members; provided that you, your proposer and seconder follow our guidance notes and advice, your application should be successful.
 
 Each application is considered on its own overall merits and it is really important that you give us a clear picture of your climbing experience; we will take into account your leading grade, preferred climbing style, breadth and depth of experience and the geographical range of your climbing. There is no secret membership criteria, all the criteria are published; see the FAQs and if you feel that you still need more information or would like to discuss specific aspects of your application don’t hesitate to contact our Membership Secretary.
 
