@@ -55,3 +55,8 @@ We try to follow this rough timescale. If you’ve not heard anything after a mo
   - We collect ad-hoc, but only do the next step once a month.
 - +1 /2weeks - Once payments clear, post handbook/keyfobs.
   - You are not a member till initial fees have cleared.
+
+### Apply now
+
+You can begin your application via the application form, this can be found here:
+[The Climbers' Club Application Form v20220501](https://forms.gle/p3Cug2xHrytPRcTJA)
