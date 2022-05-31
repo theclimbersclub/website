@@ -7,8 +7,6 @@ order: 40
 
 The idea of an adventurous climb is linked to a combination of factors in addition to the grade; for example the length of a climb, the availability of protection or its location (e.g. high mountain, remote, inescapable, difficult access or descent).
 
-Multi-pitch sports route can be adventurous such as “Wings for Life” on Telendos (Kalymnos); it is long, relatively remote certainly difficult to escape from and with a good hike over the top and down to the bar!
-
 ### Our Mission
 
 > The object of the Club will be to, encourage mountaineering, particularly in England, Ireland, and Wales, and to serve as a bond of union amongst all lovers of mountain climbing. ~ Journal 1898 Vol 1
@@ -25,11 +23,20 @@ There is no age limit for membership nor is there any limit on the total number 
 
 Each application is considered on its own overall merits and it is really important that you give us a clear picture of your climbing experience; we will take into account your leading grade, preferred climbing style, breadth and depth of experience and the geographical range of your climbing. There is no secret membership criteria, all the criteria are published; see the FAQs and if you feel that you still need more information or would like to discuss specific aspects of your application don’t hesitate to contact our Membership Secretary.
 
-There are sure to be questions.  Please review the frequently asked questions. If your question is not answered, ask your proposer/seconder and do not hesitate to contact the Hon. Membership Secretary if still stuck.
+There are sure to be questions. Please review the frequently asked questions. If your question is not answered, ask your proposer/seconder and do not hesitate to contact the Hon. Membership Secretary if still stuck.
 
-* [Joining The Club](/docs/membership/joining-the-club)
-* [Cost of Membership](/docs/membership/cost-of-membership)
-* [About The Club](/docs/membership/about-the-club)
+- [Joining The Club](/docs/membership/joining-the-club)
+- [Cost of Membership](/docs/membership/cost-of-membership)
+- [About The Club](/docs/membership/about-the-club)
+
+### Club rules
+
+Our primary rule, rule one is as follows:
+
+> The Club shall be called ‘THE CLIMBERS’ CLUB’. Its objects shall be to encourage mountaineering and
+> rock-climbing and to promote the general interests of mountaineers and the mountain environment.
+
+A full copy of the rules can be found on here: [Rules document](/docs/membership/CC-Rules-15.pdf){:target="\_blank"}, you should read through them at least once before applying.
 
 ### Time line on applications
 
@@ -48,9 +55,3 @@ We try to follow this rough timescale. If you’ve not heard anything after a mo
   - We collect ad-hoc, but only do the next step once a month.
 - +1 /2weeks - Once payments clear, post handbook/keyfobs.
   - You are not a member till initial fees have cleared.
-
-
-
-### Club rules
-
-A copy of the rules can be found on the [Rules document](/docs/membership/CC-Rules-15.pdf){:target="_blank"}.

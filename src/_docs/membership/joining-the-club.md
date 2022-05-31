@@ -40,7 +40,7 @@ You can apply at any time of the year. Applications are reviewed roughly every m
 We are always looking to recruit new members who are climbers and mountaineers who are experienced and competent leaders of adventurous climbs. There is no minimum grade of climb which you must achieve; we look at the overall experience of each applicant.
 
 The idea of an adventurous climb is linked to a combination of factors in
-addition to the grade; for example the length of a climb or its location (e.g. high mountain, remote, inescapable, difficult access or descent). Multi-pitch sports route can be adventurous such as “Wings for Life” on Telendos (Kalymnos) it is long, relatively remote certainly difficult to escape from and with a good hike over the top and down to the bar! You will note that we have not included any specific minimum grade, the traditional “rule of thumb” was lead VS but we feel that this is too restrictive – please just tell us what you have done!
+addition to the grade; for example the length of a climb or its location (e.g. high mountain, remote, inescapable, difficult access or descent). You will note that we have not included any specific minimum grade, the traditional “rule of thumb” was lead VS – please just tell us what you have done!
 
 There is no minimum length of experience for membership, we receive applications from climbers who have been active for only two years yet they have done much more than other applicants with 10 years experience. It is your overall experience that matters.
 
