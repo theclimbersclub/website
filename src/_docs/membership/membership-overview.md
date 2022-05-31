@@ -36,7 +36,7 @@ Our primary rule, rule one is as follows:
 > The Club shall be called ‘THE CLIMBERS’ CLUB’. Its objects shall be to encourage mountaineering and
 > rock-climbing and to promote the general interests of mountaineers and the mountain environment.
 
-A full copy of the rules can be found on here: [Rules document](/docs/membership/CC-Rules-15.pdf){:target="\_blank"}, you should read through them at least once before applying.
+A full copy of the rules can be found on here: [The Climbers' CLub Rules](/docs/membership/CC-Rules-15.pdf){:target="\_blank"}. You should read through them at least once before applying.
 
 ### Time line on applications
 
