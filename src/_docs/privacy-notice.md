@@ -87,5 +87,5 @@ You can contact us via email at membership[at]theclimbers.club
 You have a right to raise a complaint with the Information Commissioner’s Office at [www.ico.org.uk](https://www.ico.org.uk)
 
 - [Membership Overview](/docs/membership/membership-overview)
-- [Joining The Club](/docs/membership/joining-the-club)
+- [Joining The Club - FAQs](/docs/membership/joining-the-club)
 - [Cost of Membership](/docs/membership/cost-of-membership)

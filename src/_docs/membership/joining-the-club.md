@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Joining the club faqs
+title: Joining The Club - Faqs
 description: Frequently asked questions for joining The Climbers' Club
 order: 30
 ---

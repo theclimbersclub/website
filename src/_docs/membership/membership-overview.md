@@ -25,7 +25,7 @@ Each application is considered on its own overall merits and it is really import
 
 There are sure to be questions. Please review the frequently asked questions. If your question is not answered, ask your proposer/seconder and do not hesitate to contact the Hon. Membership Secretary if still stuck.
 
-- [Joining The Club](/docs/membership/joining-the-club)
+- [Joining The Club - FAQs](/docs/membership/joining-the-club)
 - [Cost of Membership](/docs/membership/cost-of-membership)
 - [About The Club](/docs/membership/about-the-club)
 
