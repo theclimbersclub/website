@@ -98,6 +98,7 @@ Yes, most modern climbers will sport-climb; our members are normal every-day pas
 
 Yes. However, please note that our huts do not have any facilities aimed these sports, such as bike racks or larger drying rooms. Huts do have drying rooms for normal hill going clothing etc., but may not be large enough for wet-suits and other water-sports equipment.
 
-* [Membership Overview](/docs/membership/membership-overview)
-* [Cost of Membership](/docs/membership/cost-of-membership)
-* [About The Club](/docs/membership/about-the-club)
+- [Membership Application Overview](/docs/membership/your-application)
+- [Aspirants Guide](/docs/membership/aspirants-guide)
+- [Cost of Membership](/docs/membership/cost-of-membership)
+- [About The Club](/docs/membership/about-the-club)

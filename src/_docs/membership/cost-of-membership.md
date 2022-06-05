@@ -29,6 +29,7 @@ Applications in June/July can be disrupted as we’re busy with annual renewals,
 * Annual dinner and various other social events.
 * Discounted CC, FRCC, BMC, SMC, AC, YMC & Steep Stone guidebooks from our on-line shop.
 
-* [Membership Overview](/docs/membership/membership-overview)
-* [Joining The Club - FAQs](/docs/membership/joining-the-club)
-* [About The Club](/docs/membership/about-the-club)
+- [Membership Application Overview](/docs/membership/your-application)
+- [Aspirants Guide](/docs/membership/aspirants-guide)
+- [Joining The Club - FAQs](/docs/membership/joining-the-club)
+- [About The Club](/docs/membership/about-the-club)

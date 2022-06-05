@@ -1,8 +1,8 @@
 ---
 layout: doc
-title: Membership Application Overview
+title: Application For Membership
 description: Membership today of this historic club should be entered into with pride. We are open to any enthusiastic and competent rock-climber or mountaineer who is experienced at leading adventurous climbs; we are not a club for novices or the inexperienced.
-order: 40
+order: 50
 ---
 
 The idea of an adventurous climb is linked to a combination of factors in addition to the grade; for example the length of a climb, the availability of protection or its location (e.g. high mountain, remote, inescapable, difficult access or descent).
@@ -15,9 +15,9 @@ The idea of an adventurous climb is linked to a combination of factors in additi
 
 The process of joining the Climbers’ Club is pretty simple and available on-line as the preferred route; like many other clubs we ask you to complete a short application form and have a couple of current members propose and second you.
 
-Don’t worry if you don’t know any members, all you need to do is come along to a few meets so that you can meet members who can then propose and second your application (contact the Meet Coordinator – contact details can be found within the meet information page).
+Don’t worry if you don’t know any members, all you need to do is come along to a few meets so that you can meet members who can then propose and second your application (contact the Meet Coordinator – contact details can be found within the [meet information page](https://www.climbers-club.co.uk/meets/)).
 
-We have special Aspirant Meets which are specifically aimed at ensuring that you can meet a range of members and we recommend that you come to one if possible.
+We have special Aspirant Meets which are specifically aimed at ensuring that you can meet a range of members and we recommend that you come to one if possible. Check the [meet information page](https://www.climbers-club.co.uk/meets/) for more information.
 
 There is no age limit for membership nor is there any limit on the total number of members; provided that you, your proposer and seconder follow our guidance notes and advice, your application should be successful.
 
@@ -26,6 +26,7 @@ Each application is considered on its own overall merits and it is really import
 There are sure to be questions. Please review the frequently asked questions. If your question is not answered, ask your proposer/seconder and do not hesitate to contact the Hon. Membership Secretary if still stuck.
 
 - [Joining The Club - FAQs](/docs/membership/joining-the-club)
+- [Aspirants Guide](/docs/membership/aspirants-guide)
 - [Cost of Membership](/docs/membership/cost-of-membership)
 - [About The Club](/docs/membership/about-the-club)
 
@@ -69,5 +70,7 @@ For **your** application to be valid **you** have to contact your supporters and
 
 ### Apply now
 
-You can begin your application via the application form, this can be found here:
+If you do not have a proposer and a second, please read the [Aspirants Guide](/docs/membership/aspirants-guide).
+
+If you have a proposer and a second, please begin your application via the application form, this can be found here:
 [The Climbers' Club Application Form v20220501](https://forms.gle/p3Cug2xHrytPRcTJA)

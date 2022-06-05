@@ -50,6 +50,7 @@ Other National Clubs such as the Fell and Rock Climbing Club (FRCC) and Alpine C
 
 No we do not offer any technical training such as rope-work or general mountaineering skills. We have organised First Aid meets for members and at our last annual dinner and social weekend some of our well known members offered master-classes on a local climbing wall.
 
-- [Membership Overview](/docs/membership/membership-overview)
+- [Membership Application Overview](/docs/membership/your-application)
+- [Aspirants Guide](/docs/membership/aspirants-guide)
 - [Joining The Club - FAQs](/docs/membership/joining-the-club)
 - [Cost of Membership](/docs/membership/cost-of-membership)
