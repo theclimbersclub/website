@@ -20,27 +20,20 @@ Members with multiple BMC affiliated club memberships only need pay the BMC subs
 When joining after Dec 31st the club fee element is halved till June.
 Applications in June/July can be disrupted as we’re busy with annual renewals, holidays, climbing.
 
-## Benefits of Membership
+## Payments
 
-* Access to a network of potential climbing partners all over the country.
-* Regular meets throughout the year, in the UK and overseas (see Meets page).
-* Use of the CC’s huts in Wales, Cornwall, Peak District and Scotland (see Huts page).
-* Reciprocal rights to other huts in the UK and overseas including USA, New Zealand, Kenya, and South Africa.
-* Annual dinner and various other social events.
-* Discounted CC, FRCC, BMC, SMC, AC, YMC & Steep Stone guidebooks from our on-line shop.
-
+Please read the [payments](/docs/membership/payments) page for more information.
 
 ## BMC Membership
 
 If you are a member of another BMC-affiliated club and wish to claim a multiple membership refund please click [here](http://www.thebmc.co.uk/Feature.aspx?id=2349) for more information.
 
-### Want to upgrading from BMC Club Member to BMC Individual Member?
+**Want to upgrade from BMC Club Member to BMC Individual Member?**
 
 All UK-based members (Aspirant, Full and Honorary) are automatically enrolled as Club Members of the British Mountaineering Council (BMC) and £20.25 of each member’s subscription fee is paid to the BMC for this purpose.
 
 You can upgrade to become a full BMC Individual Member for £19.20 (normal price £39.95) by following this [link](http://www.thebmc.co.uk/Pages.aspx?page=46).
 
-- [Payments](/docs/membership/payments)
 - [Membership Application Overview](/docs/membership/your-application)
 - [Aspirants Guide](/docs/membership/aspirants-guide)
 - [Joining The Club - FAQs](/docs/membership/joining-the-club)

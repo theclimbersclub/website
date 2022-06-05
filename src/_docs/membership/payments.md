@@ -36,11 +36,13 @@ If you need to advise us of a new bank account, please contact the Hon. Membersh
 
 ## Key payment dates
 
-We collect club dues around the 2nd of July, or as notified by email.
-We collect hut fees quarterly, jan-feb-mar will be collected in April and so on.
-Ad-hoc collections and payments will be made as need arises and dates advised e.g. AGM dinners
+- We collect club dues around the 2nd of July, or as notified by email.
+- We collect hut fees quarterly, jan-feb-mar will be collected in April and so on.
+- Ad-hoc collections and payments will be made as need arises and dates advised e.g. AGM dinners
 
-**Note** that overdue subscriptions invalidate the individual’s BMC insurance cover until paid. If you don’t want to renew, please let the Hon. Membership Secretary know. Any unpaid subscriptions after 60days (circa September 31st) will be considered lost and the club will not renew your BMC membership in the following year.
+**Note** that overdue subscriptions invalidate the individual’s BMC insurance cover until paid. If you don’t want to renew, please let the Hon. Membership Secretary know.
+
+Any unpaid subscriptions after 60days (circa September 31st) will be considered lost and the club will not renew your BMC membership in the following year. Your membership will enter a lapsed status; access & benefits will be paused, you will be removed from the club the following year.
 
 
 - [Joining The Club - FAQs](/docs/membership/joining-the-club)
