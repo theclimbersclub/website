@@ -47,9 +47,8 @@ We may ask you if we can process your personal information for other purposes. W
 
 ### Who we share your personal information with
 
-When we register your membership with The BMC we pass on your personal data and The BMC
-become a controller of your personal data. The BMC provides full details of how it uses your personal data in its own
-(privacy notice)[https://www.thebmc.co.uk/privacy] and will not use it for any other purpose.
+When we register your membership with The BMC we pass on your personal data and The BMC become a controller of your personal data. The BMC provides full details of how it uses your personal data in its own
+[privacy notice](https://www.thebmc.co.uk/privacy) and will not use it for any other purpose.
 We may be required to share personal information with statutory or regulatory authorities to comply with statutory obligations. Such organisations may include the Health & Safety Executive, and the Police. We may also share personal
 information with professional and legal advisors for the purpose of obtaining advice.
 
@@ -71,18 +70,15 @@ with those purposes.
 
 ### How we protect your personal information
 
-Your personal information is accessed by our Secretary, Treasurer & Membership Secretary, committee members, and meet
-organisers for the purposes set out above. Your personal data is transferred to
-The BMC by uploading a data file directly into a password-protected database.
+Your personal information is accessed by our Secretary, Treasurer, Membership Secretary, select committee members, and meet organisers for the purposes set out above. Your personal data is transferred to The BMC by uploading a data file directly into a password-protected database.
 
 You have a right to:
 
 - Change your communication preferences or restrict the processing of your personal data for specific purposes.
 - Request that we correct your personal data if you believe it is inaccurate or incomplete.
 - Request that we delete your personal information.
-- Access the personal data that we hold about you through a “subject access request”.
--
-You can contact us via email at membership[at]theclimbers.club
+- Access the personal data that we hold about you through a "subject access request".
+- You can contact us via email at membership[at]theclimbers.club
 
 You have a right to raise a complaint with the Information Commissioner’s Office at [www.ico.org.uk](https://www.ico.org.uk)
 
