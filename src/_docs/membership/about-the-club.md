@@ -30,11 +30,12 @@ Members get an up to date member listing, this allows them to contact other memb
 
 Members enjoy many advantages including:
 
-- Access to our eight huts, full details are available on our huts pages, plus preferential access to the huts of a number of other clubs, the advantage of staying in a hut is obvious when you wake up on a campsite to a howling gale and lashing rain!
-- 25% discount on the price of guidebooks published by CC, FRCC, and the Alpine Club.
+- To be a member of The Climbers' Club, to meet and chat to other like minded climbers covering all generations.
+- Up to 25% discount on the price of guidebooks published by CC, FRCC, and the Alpine Club.
 - Discounts at many equipment retailers.
 - The opportunity to join meets from our extensive list of meets in the UK and abroad.
 - Receiving a monthly e-letter and a superb Journal.
+- Access to our eight huts, full details are available on our huts pages, plus preferential access to the huts of a number of other clubs, the advantage of staying in a hut is obvious when you wake up on a campsite to a howling gale and lashing rain!
 - The opportunity to join in at annual social weekends which include a buffet or seated meal.
 - Every year the meets programme includes a number of family focused meets where children (our future members?) are encouraged. Most huts have rooms which can be booked for family use and children accompanied by members can make full use of all huts during the day.
 
@@ -48,7 +49,7 @@ Other National Clubs such as the Fell and Rock Climbing Club (FRCC) and Alpine C
 
 ## Does the Club offer training for its members?
 
-No we do not offer any technical training such as rope-work or general mountaineering skills. We have organised First Aid meets for members and at our last annual dinner and social weekend some of our well known members offered master-classes on a local climbing wall.
+No we do not offer any technical training such as rope-work or general mountaineering skills. Previously we have organised First Aid meets for members and events like our AGM, some of our well known members have run master-classes, outside, or at a wall.
 
 - [Membership Application Overview](/docs/membership/your-application)
 - [Aspirants Guide](/docs/membership/aspirants-guide)
