@@ -66,7 +66,7 @@ with those purposes.
 - Librato & LogDNA support our monitoring and reporting.
 - Summit360 Ltd, SD Worx UK Limited & GoCardless process payment transactions securely on our behalf.
 - Instructors, coaches and event organisers may receive details of participants.
-
+- Google Inc. provides a data capture service via it's forms product.
 
 ### How we protect your personal information
 
