@@ -60,13 +60,14 @@ We try to follow this rough timescale. If you’ve not heard anything after a mo
 ### Your Supporters
 
 Your application requires at least two supporters. You should know them well, ideally for a number of years.
-You should of climbed in various situations with them over hte years you've known them.
+You should of climbed in various situations with them over the years you've known them.
 You can proceed with one as a climbing reference and one as a social reference.
 
 For **your** application to be valid **you** have to contact your supporters and advise them to complete this form:
 [The Climbers' Club Supporters Form V20220501](https://forms.gle/FqJce5zjoZ1b6DNS6)
 
-**Your application is not valid till there are at least two supporters.
+**Your application is not valid till there are at least two supporters.**
+We may ask for more supporters if your application is weak; so write a great application.
 
 ### Apply now
 
