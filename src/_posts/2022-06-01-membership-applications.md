@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Membership applications
+title: Membership Applications
 description: After a longer than expected pause, applications are open again.
 date: 2022-06-01T18:06:20.525Z
 ---
