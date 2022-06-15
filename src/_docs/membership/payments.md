@@ -2,7 +2,7 @@
 layout: doc
 title: Payment Options
 description: We're overhauling our payment systems, so please check the new payment options page for details.
-order: 50
+order: 70
 ---
 
 Payment options presently consist of the following options:
