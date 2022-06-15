@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Payment Options
-description: We're overhauling our payment systems, so please check the new payment options page for details.
+description: We're overhauling our payment systems, so please read about the available options.
 order: 70
 ---
 
