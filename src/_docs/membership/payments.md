@@ -28,7 +28,7 @@ You can't enrol on GoCardless presently, but we'll be doing this in the near fut
 ### Changing banks
 
 In theory when you change banks using the full switch service, your existing direct debits move to your new bank and there is nothing to do.
-However if you don't use the full service, ie leave your old account open, you'll need to maintain a balance to cover club bills or enrol on the new GoCardless service. There is paper based form to fill in any more.
+However if you don't use the full service, ie leave your old account open, you'll need to maintain a balance to cover club bills or enrol on the new GoCardless service. There is no paper based form to fill in any more.
 
 ## GoCardless setup
 
